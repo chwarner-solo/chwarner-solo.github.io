@@ -2,9 +2,32 @@ title: Chris Warner
 description: Principal Engineer | Pragmatic Systems Architecture
 theme: minima
 url: "https://chwarner-solo.github.io/"
+baseurl: ""
 
 header_pages:
   - about.md
+  - resume.md
   - writing.md
 
 show_excerpts: true
+
+google_analytics: G-VZ8910BH2W
+
+author:
+  name: Chris Warner
+  email: cdw.lighting@gmail.com
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems
+  - vendor/ruby
+  - README.md
