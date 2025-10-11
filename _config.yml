@@ -1,0 +1,10 @@
+title: Chris Warner
+description: Principal Engineer | Pragmatic Systems Architecture
+theme: minima
+url: "https://chwarner-solo.github.io/"
+
+header_pages:
+  - about.md
+  - writing.md
+
+show_excerpts: true
