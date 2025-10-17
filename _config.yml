@@ -8,6 +8,7 @@ header_pages:
   - about.md
   - resume.md
   - writing.md
+  - design_docs.md
 
 show_excerpts: true
 
