@@ -1,6 +1,6 @@
 # RFC-001: Authentication, Authorization & Subscription Management
 
-**Author:** [Your Name]  
+**Author:** Chris Warner  
 **Status:** Draft  
 **Created:** 2025-10-16  
 **Last Updated:** 2025-10-16
